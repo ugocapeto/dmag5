@@ -18,6 +18,8 @@ Info about dmag5 (theory behind it and how to use it) can be found here:
 
 [Fast Cost Volume Filtering for Stereo Matching](https://3dstereophoto.blogspot.com/2014/05/fast-cost-volume-filtering-for-stereo.html)
 
+[Guided Image Filtering](https://3dstereophoto.blogspot.com/2014/05/guided-image-filtering.html)
+
 Dependencies (check the Makefiles):
 
 "common" repo
